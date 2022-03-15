@@ -1,1 +1,3 @@
-{"parent":"minecraft:block/glass/brown_stained_glass"}
+{
+  "parent": "minecraft:block/glass/brown_stained_glass"
+}

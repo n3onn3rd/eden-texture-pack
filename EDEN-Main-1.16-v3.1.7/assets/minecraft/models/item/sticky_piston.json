@@ -1,1 +1,3 @@
-{"parent":"block/sticky_piston_inventory"}
+{
+  "parent": "block/sticky_piston_inventory"
+}

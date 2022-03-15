@@ -1,1 +1,11 @@
-{"credit":"Made by n3on_n3rd","parent":"block/note_block/base","textures":{"number":"block/note_block_pitch/numerical_8","pitch":"block/note_block_pitch/pitch_8","top":"block/note_block","particle":"block/note_block","side":"block/note_block_pitch/note_block_side"}}
+{
+  "credit": "Made by n3on_n3rd",
+  "parent": "block/note_block/base",
+  "textures": {
+    "number": "block/note_block_pitch/numerical_8",
+    "pitch": "block/note_block_pitch/pitch_8",
+    "top": "block/note_block",
+    "particle": "block/note_block",
+    "side": "block/note_block_pitch/note_block_side"
+  }
+}

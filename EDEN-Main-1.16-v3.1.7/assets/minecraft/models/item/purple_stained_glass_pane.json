@@ -1,1 +1,6 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:block/glass/purple_stained_glass"}}
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/glass/purple_stained_glass"
+  }
+}

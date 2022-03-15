@@ -1,1 +1,7 @@
-{"parent":"minecraft:block/glass/template_glass_pane_side_alt","textures":{"pane":"minecraft:block/glass/glass","edge":"minecraft:block/glass/glass_pane_top"}}
+{
+  "parent": "minecraft:block/glass/template_glass_pane_side_alt",
+  "textures": {
+    "pane": "minecraft:block/glass/glass",
+    "edge": "minecraft:block/glass/glass_pane_top"
+  }
+}
