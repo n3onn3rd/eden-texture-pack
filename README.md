@@ -1,8 +1,6 @@
-<style type="text/css">li{color:"rgb(118,131,144)";}h2{text-align:"right";}</style>
-
 # **The Eden Texture Pack**
 
-## _By: [n3on_n3rd](https://n3on.ca)_
+## .                     _By: [n3on_n3rd](https://n3on.ca)_
 
 ### **Downloads:**
 
