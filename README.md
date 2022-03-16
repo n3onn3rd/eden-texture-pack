@@ -23,6 +23,6 @@ for use on [MC-Drugs](https://mc-drugs.com) on Minecraft Java 1.16.
 It is inspired by, and works heavily of off [Faithful MC](https://mc-drugs.com).
 
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
-<img src="https://i.giphy.com/media/YSeWtruZU3jS5dnRfh/giphy.webp" width="100%">
-</img>
+<style>li {color:#768372;}
+</style>
 </div>
