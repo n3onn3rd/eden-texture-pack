@@ -1,5 +1,11 @@
 # **The Eden Texture Pack**
 
+<style
+   type="text/css">
+li {color:rgb(118, 131, 144);}
+h2 {text-align:right;}
+</style>
+
 ## _By: [n3on_n3rd](https://n3on.ca)_
 
 ### **Downloads:**
@@ -25,9 +31,3 @@
 The Eden texture pack is a 32x32 resolution Resource Pack
 for use on [MC-Drugs](https://mc-drugs.com) on Minecraft Java 1.16.
 It is inspired by, and works heavily of off [Faithful MC](https://mc-drugs.com).
-
-<style
-   type="text/css">
-li {color:rgb(118, 131, 144);}
-h2 {text-align:right;}
-</style>
