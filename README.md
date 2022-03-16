@@ -1,8 +1,4 @@
-<style
-   type="text/css">
-li {color:rgb(118, 131, 144);}
-h2 {text-align:right;}
-</style>
+<style type="text/css">li{color:rgb(118,131,144);}h2{text-align:right;}</style>
 
 # **The Eden Texture Pack**
 
