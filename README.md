@@ -24,6 +24,7 @@ It is inspired by, and works heavily of off [Faithful MC](https://mc-drugs.com).
 
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
 <style
-   type="text/css">li {color:#768372;}
+   type="text/css">
+li {color:#768372;}
 </style>
 </div>
