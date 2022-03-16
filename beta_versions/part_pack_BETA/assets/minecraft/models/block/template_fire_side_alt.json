@@ -1,0 +1,1 @@
+{"credit":"Made by n3on_n3rd","textures":{"particle":"block/partical"},"ambientocclusion":false,"elements":[{"from":[0,0,0.01],"to":[16,22.4,0.01],"shade":false,"faces":{"south":{"uv":[16,0,0,16],"texture":"#fire"},"north":{"uv":[16,0,0,16],"texture":"#fire"}}}]}

@@ -1,0 +1,42 @@
+{
+	"pack": {
+		"pack_format": 6,
+		"description": [
+			"",
+			{
+				"text": "Silent Beacons",
+				"bold": true,
+				"color": "aqua"
+			},
+			{
+				"text": " for ",
+				"color": "aqua"
+			},
+			{
+				"text": "Cranky!",
+				"color": "light_purple"
+			},
+			{
+				"text": " By: ",
+				"color": "red"
+			},
+			{
+				"text": "◁",
+				"color": "dark_red"
+			},
+			{
+				"text": "n3on_n3rd",
+				"bold": true,
+				"color": "green"
+			},
+			{
+				"text": "▷",
+				"color": "dark_red"
+			},
+			{
+				"text": " v1.1",
+				"color": "red"
+			}
+		]
+	}
+}

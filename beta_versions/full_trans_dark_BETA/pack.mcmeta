@@ -1,0 +1,57 @@
+{
+	"pack": {
+		"pack_format": 6,
+		"description": [
+			"", {
+				"text":"\u25c1",
+				"color":"dark_red"
+			}, 
+			{
+				"text": "Eden",
+				"bold": true,
+				"color": "aqua"
+			},
+			{
+				"text":"\u25b7",
+				"color":"dark_red"
+			},
+			{
+				"text": " FullTransparent ",
+				"color":"gold"
+			},
+			{
+				"text":"\u25c1",
+				"color":"dark_red"
+			}, 
+			{
+				"text": "Dark",
+				"color":"yellow"
+			},
+			{
+				"text":"\u25b7",
+				"color":"dark_red"
+			},
+			{
+				"text": " By: ",
+				"color": "red"
+			},
+			{
+				"text":"\u25c1",
+				"color":"dark_red"
+			}, 
+			{
+				"text": "n3on_n3rd",
+				"bold": true,
+				"color": "green"
+			},
+			{
+				"text":"\u25b7",
+				"color":"dark_red"
+			},
+			{
+				"text": " v1.0",
+				"color": "red"
+			}
+		]
+	}
+}

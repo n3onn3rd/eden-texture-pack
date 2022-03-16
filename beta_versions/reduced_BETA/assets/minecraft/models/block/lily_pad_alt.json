@@ -1,0 +1,1 @@
+{"credit":"Made by n3on_n3rd","texture_size":[32,32],"textures":{"particle":"block/lily_pad","waterlily":"block/lily_pad"},"elements":[{"from":[-0.25,-0.75,0.75],"to":[15.75,-0.75,16.75],"rotation":{"angle":-45,"axis":"y","origin":[8,0,8]},"faces":{"up":{"uv":[0,0,16,16],"texture":"#waterlily","tintindex":0},"down":{"uv":[0,16,16,0],"texture":"#waterlily","tintindex":0}}}]}
